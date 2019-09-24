@@ -35,12 +35,12 @@ yolo_training.exe
 ### Label your images
 
 
-* 0-9 change current label
-* esc cancel current bounding box
-* next button to save labels to file and go to next image
-* back to go back an image
-* clear all to delete all current image bounding boxes
-* delete to delete selected bounding box
+* 0-9 keys - change current label (current label at the bottom)
+* esc key - cancel current bounding box
+* "next" button - save labels to file and go to next image
+* "prev" button - go to previous image
+* "clear all" button - delete all current image bounding boxes
+* "delete" button - delete selected bounding box
 
 
 ### Create cfg files
