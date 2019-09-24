@@ -15,7 +15,7 @@ Helps you label and create config files for yolov3 training
 * Yolov3 pre-trained weights if you want to start training immediatly
   
 ```  
-https://pjreddie.com/media/files/darknet53.conv.74
+wget https://pjreddie.com/media/files/darknet53.conv.74
 ```
 
 To properly use the labeling tool, you need python Tkinter library.
