@@ -11,7 +11,7 @@ Helps you label and create config files for yolov3 training
 
 
 * Windows
-* Python with Tkinter Library/PIL
+* Python with Tkinter Library/pillow
 * Yolov3 pre-trained weights if you want to start training immediatly
   
 ```  
